@@ -1,0 +1,10 @@
+{
+  "name": "ng-office-hours",
+  "version": "0.0.0",
+  "description": "Amplify's AngularJS Office Hours",
+  "author": "Amplify",
+  "dependencies": {
+    "express": "~3.5.0",
+    "mongoose": "~3.8.8"
+  }
+}
